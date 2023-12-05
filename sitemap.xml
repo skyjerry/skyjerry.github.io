@@ -2,10 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://skyjerry.com/categories/</loc>
+    <loc>https://skyjerry.com/articles/</loc>
+    <lastmod>2023-12-05T23:20:00+08:00</lastmod>
+  </url><url>
+    <loc>https://skyjerry.com/tags/go/</loc>
+    <lastmod>2023-12-05T23:20:00+08:00</lastmod>
   </url><url>
     <loc>https://skyjerry.com/tags/</loc>
+    <lastmod>2023-12-05T23:20:00+08:00</lastmod>
   </url><url>
     <loc>https://skyjerry.com/</loc>
+    <lastmod>2023-12-05T23:20:00+08:00</lastmod>
+  </url><url>
+    <loc>https://skyjerry.com/articles/goroutine-paper-crane/</loc>
+    <lastmod>2023-12-05T23:20:00+08:00</lastmod>
+  </url><url>
+    <loc>https://skyjerry.com/categories/</loc>
   </url>
 </urlset>
